@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.svg" width="150" alt="MaderPacker logo">
+</p>
+
 # MaderPacker
 
 MaderPacker turns a folder of numbered karaoke MIDI files into a
