@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+build/
+dist/
+*.spec
+MaderPacker.exe
+assets/logo.png
+assets/logo.ico
+# generated outputs (reproducible via tools/)
+songs.csv
+*.mid
+library_mid/
+test_content/
+# large container fixture (see tests/paths.py; copy locally, never commit)
+fixtures/shubblob
